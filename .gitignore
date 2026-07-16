@@ -1,0 +1,8 @@
+target/
+.idea/
+.vscode/
+*.class
+*.log
+*.imlgit rm -r --cached target
+git rm -r --cached .idea
+git rm --cached *.iml
