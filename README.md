@@ -43,7 +43,7 @@ A Java IDE (e.g., IntelliJ IDEA, Eclipse) or any text editor with Java support.
 - Installation
 Clone the repository to your local machine using:
 
-git clone https://github.com/ammarlodhi255/cpu-scheduling-simulator.git
+git clone https://github.com/Ayushjungari/SCHEDULR.git
 Navigate to the project directory:
 
 cd cpu-scheduling-simulator
