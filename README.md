@@ -34,3 +34,32 @@ Different CPU scheduling algorithms have unique properties, and choosing the rig
 - `target/`: Directory for compiled classes and build artifacts.
 - `pom.xml`: Maven project file for managing dependencies and build configurations.
 
+## Getting Started
+- Prerequisites
+Java Development Kit (JDK) 8 or higher.
+Apache Maven (optional, for building the project).
+A Java IDE (e.g., IntelliJ IDEA, Eclipse) or any text editor with Java support.
+
+- Installation
+Clone the repository to your local machine using:
+
+git clone https://github.com/ammarlodhi255/cpu-scheduling-simulator.git
+Navigate to the project directory:
+
+cd cpu-scheduling-simulator
+Open the project in your preferred Java IDE.
+
+- Usage
+Compile the project: Ensure all .java files are compiled. Most IDEs handle this automatically.
+Run the Simulator:
+Execute the main class in src/main/ to launch the simulator's user interface.
+Choose the desired CPU scheduling algorithm and input the process data.
+View Results:
+The simulator will display the sequence of process execution and calculate important metrics like waiting time, turnaround time, and CPU utilization.
+
+- Example
+Simulating Round Robin Scheduling:
+Open the simulator.
+Select "Round Robin" from the list of algorithms.
+Input the number of process.
+Click "Start" to see the order of execution and performance metrics.
